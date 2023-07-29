@@ -30,7 +30,5 @@ Let's connect and learn together! If you have any questions, suggestions, or jus
 
 - Twitter: [@alessandroseni](https://twitter.com/alessandroseni)
 
-Happy coding! 🎉
-
 ---
 > This README was written by ChatGPT
